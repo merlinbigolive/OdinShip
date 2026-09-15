@@ -1,11 +1,10 @@
-Odinship.com — Premium Domain For Sale Landing Page
+MughlaiFood.com — Odinship-style premium domain sales website
 
-This website is only for Odinship.com.
-No video or unrelated domain listings are included.
+Upload all files in this folder to the ROOT of your GitHub Pages repository.
+Files:
+- index.html
+- CNAME
+- robots.txt
+- sitemap.xml
 
-Buy links:
-- GoDaddy: https://www.godaddy.com/domainsearch/find?domainToCheck=odinship.com
-- Afternic: https://www.afternic.com/domain/odinship.com
-- Sedo: https://sedo.com/search/details/?domain=odinship.com
-
-Deploy as a static website. index.html is the main page.
+The layout is based directly on the same clean full-screen structure as the supplied OdinShip website, adapted only for MughlaiFood.com.
